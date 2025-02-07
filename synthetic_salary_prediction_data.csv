@@ -1,0 +1,501 @@
+Age,YearsExperience,EducationLevel,JobTitle,Industry,Location,AnnualSalary
+47,14,Bachelor's,Data Analyst,Healthcare,Seattle,74746
+46,12,Bachelor's,Data Analyst,Finance,New York,68418
+55,35,High School,Sales Associate,Education,Houston,113002
+57,30,Master's,Marketing Specialist,Finance,San Francisco,100868
+55,20,High School,Project Manager,Healthcare,New York,78093
+59,24,PhD,Software Engineer,Finance,San Francisco,102301
+46,24,High School,Sales Associate,Retail,New York,91972
+59,20,PhD,Data Analyst,Healthcare,Houston,85992
+57,35,High School,Sales Associate,Finance,San Francisco,109759
+34,13,High School,Project Manager,Education,Chicago,77085
+60,38,Bachelor's,Data Analyst,Healthcare,Houston,117550
+37,12,High School,Data Analyst,Retail,Seattle,83522
+51,23,Master's,Data Analyst,Education,Houston,109087
+64,38,Master's,Project Manager,Healthcare,New York,144194
+58,38,High School,Software Engineer,Finance,Chicago,107168
+37,13,High School,Sales Associate,Education,Seattle,79430
+62,11,High School,Data Analyst,Retail,San Francisco,64724
+58,26,PhD,Sales Associate,Retail,San Francisco,124853
+49,26,PhD,Software Engineer,Tech,Chicago,97477
+64,40,High School,Project Manager,Education,New York,118119
+55,31,High School,Software Engineer,Education,San Francisco,101458
+40,20,Master's,Sales Associate,Finance,San Francisco,82599
+59,33,Master's,Data Analyst,Tech,Chicago,133616
+26,2,Master's,Data Analyst,Tech,Houston,64023
+35,11,High School,Marketing Specialist,Tech,Houston,57625
+64,13,PhD,Sales Associate,Education,Chicago,91928
+34,11,Master's,Project Manager,Retail,San Francisco,62716
+60,28,High School,Software Engineer,Tech,New York,90922
+47,17,Bachelor's,Sales Associate,Tech,New York,72124
+52,21,High School,Sales Associate,Tech,New York,79057
+50,15,Master's,Sales Associate,Education,New York,70122
+53,17,High School,Sales Associate,Tech,Seattle,91630
+51,23,High School,Marketing Specialist,Tech,Chicago,83827
+65,11,PhD,Marketing Specialist,Healthcare,Seattle,84204
+49,12,Master's,Data Analyst,Tech,Chicago,73137
+56,20,High School,Data Analyst,Healthcare,Seattle,82843
+22,1,High School,Data Analyst,Finance,San Francisco,42224
+59,17,PhD,Marketing Specialist,Tech,San Francisco,87713
+60,6,PhD,Marketing Specialist,Tech,Houston,73082
+23,3,PhD,Project Manager,Healthcare,San Francisco,60531
+59,22,High School,Software Engineer,Finance,Houston,102186
+45,21,Master's,Software Engineer,Tech,Houston,88901
+63,14,High School,Marketing Specialist,Tech,San Francisco,71019
+57,0,PhD,Marketing Specialist,Tech,Houston,48739
+51,25,PhD,Sales Associate,Education,Chicago,105702
+57,15,Bachelor's,Software Engineer,Education,Houston,84427
+47,11,Master's,Sales Associate,Retail,Chicago,84419
+27,0,High School,Marketing Specialist,Retail,Seattle,39568
+47,25,Master's,Marketing Specialist,Finance,San Francisco,119830
+47,0,Master's,Project Manager,Finance,San Francisco,54808
+51,23,PhD,Sales Associate,Retail,Seattle,120936
+53,22,Master's,Software Engineer,Finance,San Francisco,92796
+52,22,Master's,Project Manager,Tech,San Francisco,88230
+58,3,High School,Sales Associate,Education,Chicago,43171
+58,30,Bachelor's,Marketing Specialist,Healthcare,Houston,109161
+30,10,PhD,Sales Associate,Finance,Seattle,70232
+63,39,PhD,Software Engineer,Education,Chicago,135538
+64,26,Master's,Project Manager,Tech,Seattle,96285
+59,36,High School,Software Engineer,Finance,New York,105497
+52,32,High School,Project Manager,Retail,Seattle,114688
+65,6,High School,Software Engineer,Education,San Francisco,65383
+57,27,Master's,Data Analyst,Healthcare,San Francisco,116140
+50,22,Master's,Marketing Specialist,Tech,New York,97476
+53,0,Bachelor's,Marketing Specialist,Tech,New York,56459
+58,37,High School,Project Manager,Tech,Chicago,114916
+63,38,PhD,Marketing Specialist,Retail,Seattle,133866
+65,10,PhD,Data Analyst,Tech,New York,72403
+58,4,Master's,Project Manager,Healthcare,Chicago,58199
+51,22,Bachelor's,Marketing Specialist,Tech,Seattle,106073
+42,12,High School,Marketing Specialist,Finance,Houston,77288
+44,22,Master's,Marketing Specialist,Education,San Francisco,109165
+61,37,Bachelor's,Software Engineer,Education,Chicago,115822
+63,34,PhD,Software Engineer,Tech,Seattle,129098
+48,26,Bachelor's,Data Analyst,Tech,Chicago,113303
+34,2,Bachelor's,Marketing Specialist,Education,Chicago,67958
+57,5,Bachelor's,Marketing Specialist,Finance,Chicago,64010
+48,20,Master's,Marketing Specialist,Healthcare,Houston,82373
+33,9,Bachelor's,Project Manager,Tech,Houston,72066
+59,29,High School,Sales Associate,Education,San Francisco,100591
+53,23,High School,Project Manager,Education,New York,96368
+65,30,PhD,Software Engineer,Education,Houston,120889
+38,12,Bachelor's,Data Analyst,Healthcare,Seattle,84283
+58,15,PhD,Marketing Specialist,Retail,Chicago,104692
+64,25,Master's,Software Engineer,Tech,Houston,101700
+51,23,Master's,Project Manager,Retail,San Francisco,105029
+59,37,Bachelor's,Software Engineer,Retail,Seattle,111174
+29,9,High School,Sales Associate,Finance,Chicago,76349
+63,34,Bachelor's,Sales Associate,Education,Chicago,125060
+55,32,PhD,Software Engineer,Education,New York,137803
+62,16,PhD,Data Analyst,Tech,Seattle,101847
+47,18,PhD,Project Manager,Finance,Chicago,96479
+56,22,High School,Software Engineer,Retail,Seattle,87812
+55,20,Master's,Marketing Specialist,Tech,Seattle,85312
+65,38,High School,Software Engineer,Healthcare,Houston,115126
+60,39,High School,Data Analyst,Healthcare,San Francisco,108006
+50,20,High School,Data Analyst,Healthcare,San Francisco,79507
+54,33,PhD,Project Manager,Retail,Seattle,128959
+53,32,Master's,Data Analyst,Healthcare,San Francisco,112561
+51,15,High School,Project Manager,Healthcare,Chicago,65839
+64,36,High School,Sales Associate,Finance,Chicago,131203
+26,0,High School,Data Analyst,Retail,Houston,44644
+61,37,PhD,Software Engineer,Finance,Chicago,147097
+63,38,PhD,Marketing Specialist,Retail,Chicago,138259
+45,16,Bachelor's,Marketing Specialist,Healthcare,New York,85866
+54,30,PhD,Project Manager,Healthcare,San Francisco,120767
+62,32,Bachelor's,Data Analyst,Finance,Chicago,118731
+55,35,High School,Marketing Specialist,Retail,San Francisco,118915
+40,10,Bachelor's,Data Analyst,Healthcare,San Francisco,79782
+54,21,High School,Data Analyst,Finance,Houston,101912
+56,17,Bachelor's,Marketing Specialist,Healthcare,Chicago,75174
+54,17,Master's,Software Engineer,Retail,Houston,82648
+56,15,Bachelor's,Marketing Specialist,Retail,New York,84779
+40,15,Bachelor's,Marketing Specialist,Finance,Chicago,79001
+36,15,Bachelor's,Project Manager,Tech,Houston,79956
+62,22,High School,Data Analyst,Education,Seattle,101424
+63,11,PhD,Software Engineer,Retail,San Francisco,85220
+38,7,Master's,Marketing Specialist,Education,Seattle,58147
+59,30,PhD,Software Engineer,Tech,Chicago,119130
+54,31,Master's,Data Analyst,Education,San Francisco,127354
+23,0,High School,Project Manager,Retail,New York,31127
+64,36,High School,Project Manager,Finance,Houston,119258
+60,32,Bachelor's,Project Manager,Tech,Houston,111632
+65,21,Master's,Project Manager,Finance,Seattle,110668
+54,26,Bachelor's,Data Analyst,Education,Houston,109801
+56,5,Bachelor's,Project Manager,Retail,San Francisco,71643
+52,25,PhD,Sales Associate,Tech,Chicago,119178
+42,7,Bachelor's,Software Engineer,Tech,San Francisco,75802
+64,26,High School,Marketing Specialist,Tech,San Francisco,99574
+60,38,Bachelor's,Software Engineer,Finance,Chicago,117836
+57,23,Bachelor's,Sales Associate,Retail,San Francisco,109580
+36,8,Master's,Project Manager,Finance,Seattle,70507
+42,6,Bachelor's,Software Engineer,Retail,Houston,65824
+65,35,PhD,Sales Associate,Tech,Houston,127390
+53,27,Master's,Data Analyst,Retail,Houston,99910
+61,36,Master's,Software Engineer,Healthcare,San Francisco,130817
+44,4,Bachelor's,Software Engineer,Finance,Houston,71927
+62,34,Bachelor's,Data Analyst,Education,San Francisco,127976
+37,7,Master's,Data Analyst,Healthcare,Seattle,55746
+52,2,High School,Data Analyst,Healthcare,Seattle,59309
+57,29,Master's,Data Analyst,Healthcare,San Francisco,112633
+56,29,Master's,Project Manager,Healthcare,Chicago,102372
+58,35,PhD,Marketing Specialist,Healthcare,Houston,138588
+58,23,Bachelor's,Data Analyst,Finance,Houston,87650
+65,38,High School,Marketing Specialist,Education,Houston,128461
+53,25,Master's,Software Engineer,Finance,Chicago,97981
+42,8,Master's,Project Manager,Tech,New York,67617
+64,39,Bachelor's,Data Analyst,Retail,San Francisco,135156
+32,2,PhD,Data Analyst,Finance,San Francisco,63800
+54,21,PhD,Software Engineer,Education,Houston,98888
+57,36,Bachelor's,Data Analyst,Tech,San Francisco,109214
+64,40,High School,Sales Associate,Tech,Seattle,119424
+47,18,PhD,Data Analyst,Tech,Houston,109010
+57,8,High School,Data Analyst,Education,San Francisco,75030
+37,2,High School,Sales Associate,Finance,Seattle,36797
+57,22,Bachelor's,Marketing Specialist,Healthcare,Chicago,83842
+51,27,PhD,Data Analyst,Tech,San Francisco,108154
+59,25,PhD,Software Engineer,Finance,Houston,109879
+38,18,Master's,Project Manager,Finance,New York,95733
+52,27,Bachelor's,Software Engineer,Tech,San Francisco,116958
+63,35,Master's,Data Analyst,Education,Chicago,124028
+61,34,Bachelor's,Project Manager,Tech,New York,115512
+64,40,Bachelor's,Project Manager,Finance,Chicago,134245
+62,24,Master's,Sales Associate,Finance,Chicago,111336
+40,15,Bachelor's,Project Manager,Education,Chicago,69767
+40,20,Bachelor's,Marketing Specialist,Education,Chicago,87056
+56,33,Bachelor's,Sales Associate,Healthcare,Houston,111092
+42,19,High School,Software Engineer,Healthcare,Houston,89150
+45,8,Bachelor's,Sales Associate,Tech,Chicago,64138
+34,11,PhD,Marketing Specialist,Education,Houston,90186
+61,33,Master's,Project Manager,Healthcare,Houston,106334
+48,28,PhD,Project Manager,Finance,San Francisco,104262
+63,34,High School,Marketing Specialist,Retail,New York,118355
+42,17,Bachelor's,Project Manager,Healthcare,Chicago,81805
+51,5,Bachelor's,Software Engineer,Healthcare,New York,67586
+43,8,PhD,Marketing Specialist,Tech,Chicago,68325
+60,26,High School,Project Manager,Tech,Seattle,111680
+53,17,Bachelor's,Software Engineer,Healthcare,New York,97358
+59,14,High School,Software Engineer,Education,San Francisco,82393
+53,18,PhD,Data Analyst,Healthcare,Chicago,94940
+58,24,Master's,Project Manager,Healthcare,New York,106264
+58,37,Master's,Marketing Specialist,Retail,Seattle,140043
+38,5,PhD,Sales Associate,Healthcare,Chicago,58572
+53,29,High School,Data Analyst,Tech,San Francisco,104475
+45,23,Master's,Marketing Specialist,Finance,Seattle,90545
+58,25,PhD,Data Analyst,Healthcare,Houston,110478
+64,17,Bachelor's,Marketing Specialist,Education,Seattle,98456
+37,15,PhD,Marketing Specialist,Finance,Chicago,103935
+37,12,Master's,Data Analyst,Healthcare,Seattle,90922
+57,20,PhD,Sales Associate,Retail,Seattle,109108
+40,17,Bachelor's,Project Manager,Finance,Seattle,98322
+62,9,PhD,Marketing Specialist,Retail,New York,71568
+59,36,High School,Software Engineer,Education,Seattle,128587
+65,34,Bachelor's,Software Engineer,Education,Seattle,117747
+60,29,Bachelor's,Marketing Specialist,Education,Chicago,119630
+41,11,High School,Sales Associate,Finance,Houston,53502
+48,10,Bachelor's,Data Analyst,Retail,Seattle,68865
+39,18,High School,Project Manager,Education,Chicago,85572
+64,16,PhD,Software Engineer,Finance,Houston,91843
+55,27,Bachelor's,Data Analyst,Retail,Seattle,107608
+63,2,High School,Data Analyst,Retail,Chicago,54945
+63,39,Master's,Project Manager,Tech,Chicago,130127
+62,39,High School,Project Manager,Tech,Chicago,115169
+44,0,High School,Project Manager,Finance,New York,40111
+50,10,Master's,Data Analyst,Healthcare,Chicago,86619
+45,5,Master's,Data Analyst,Tech,Houston,62755
+55,34,High School,Project Manager,Retail,New York,123467
+45,24,PhD,Project Manager,Retail,New York,116134
+62,37,Bachelor's,Sales Associate,Retail,Houston,137196
+24,1,High School,Project Manager,Healthcare,New York,53270
+43,5,High School,Data Analyst,Tech,New York,58213
+59,37,Bachelor's,Software Engineer,Tech,Seattle,136768
+57,34,Master's,Marketing Specialist,Retail,New York,122418
+61,25,Bachelor's,Software Engineer,Healthcare,Chicago,87688
+53,30,Bachelor's,Sales Associate,Retail,San Francisco,111107
+40,19,Master's,Project Manager,Retail,Seattle,97358
+64,0,Bachelor's,Project Manager,Tech,New York,62545
+54,24,PhD,Project Manager,Tech,San Francisco,111728
+56,1,High School,Marketing Specialist,Retail,Houston,53338
+55,8,Bachelor's,Sales Associate,Tech,Seattle,67285
+24,0,Bachelor's,Sales Associate,Education,Chicago,55366
+63,39,Master's,Software Engineer,Tech,San Francisco,147751
+65,39,Master's,Sales Associate,Tech,Houston,144493
+32,8,High School,Project Manager,Healthcare,Seattle,63078
+45,23,PhD,Sales Associate,Finance,San Francisco,101599
+48,10,PhD,Software Engineer,Finance,Chicago,67042
+64,32,Bachelor's,Marketing Specialist,Retail,New York,114691
+51,20,Bachelor's,Marketing Specialist,Education,New York,97884
+43,7,Master's,Software Engineer,Healthcare,New York,74463
+55,0,High School,Project Manager,Healthcare,Seattle,31842
+41,21,High School,Marketing Specialist,Retail,Chicago,89295
+53,16,PhD,Data Analyst,Finance,Seattle,102985
+44,17,Master's,Data Analyst,Finance,New York,98641
+48,22,PhD,Sales Associate,Tech,Houston,101127
+61,40,High School,Project Manager,Education,San Francisco,124816
+30,7,Master's,Sales Associate,Healthcare,San Francisco,69660
+58,28,Bachelor's,Data Analyst,Retail,San Francisco,106006
+23,0,PhD,Sales Associate,Finance,Houston,53799
+63,33,PhD,Sales Associate,Finance,San Francisco,114194
+41,15,High School,Data Analyst,Tech,New York,73753
+40,7,Master's,Data Analyst,Education,New York,74532
+42,4,Master's,Data Analyst,Retail,Chicago,70313
+62,40,High School,Software Engineer,Tech,Houston,137620
+36,7,PhD,Data Analyst,Tech,New York,79195
+64,32,Master's,Marketing Specialist,Education,San Francisco,109460
+33,10,Bachelor's,Software Engineer,Tech,Seattle,71856
+36,12,Bachelor's,Data Analyst,Education,New York,66327
+58,36,PhD,Software Engineer,Education,Chicago,143371
+64,13,PhD,Data Analyst,Retail,Chicago,72817
+60,12,PhD,Data Analyst,Tech,San Francisco,74289
+63,39,High School,Software Engineer,Finance,Houston,126491
+63,0,Master's,Sales Associate,Healthcare,New York,54720
+31,2,Bachelor's,Marketing Specialist,Tech,Chicago,68351
+57,5,Bachelor's,Marketing Specialist,Healthcare,New York,63239
+61,40,Bachelor's,Data Analyst,Retail,San Francisco,134851
+46,24,High School,Sales Associate,Tech,Chicago,84709
+65,38,Master's,Software Engineer,Education,Chicago,121964
+58,38,Master's,Data Analyst,Retail,Seattle,139147
+27,1,Master's,Data Analyst,Tech,San Francisco,56321
+61,33,Master's,Sales Associate,Finance,Houston,115350
+54,29,PhD,Software Engineer,Finance,Seattle,124958
+48,24,High School,Sales Associate,Tech,New York,95241
+50,21,High School,Project Manager,Retail,Houston,73379
+34,13,PhD,Marketing Specialist,Retail,Seattle,89579
+53,23,PhD,Data Analyst,Healthcare,Chicago,103098
+31,7,High School,Project Manager,Finance,San Francisco,46363
+54,19,Bachelor's,Data Analyst,Finance,New York,84304
+60,11,Master's,Data Analyst,Finance,Houston,66019
+62,36,High School,Marketing Specialist,Education,Seattle,120607
+63,36,High School,Data Analyst,Education,Chicago,113823
+54,11,Master's,Software Engineer,Education,Chicago,77608
+56,3,Master's,Data Analyst,Healthcare,San Francisco,75616
+54,34,Bachelor's,Software Engineer,Education,Houston,128260
+52,20,Bachelor's,Project Manager,Retail,San Francisco,83588
+62,22,Master's,Marketing Specialist,Retail,Chicago,109914
+26,3,Bachelor's,Marketing Specialist,Finance,New York,45909
+48,7,Bachelor's,Marketing Specialist,Tech,San Francisco,51131
+41,15,Bachelor's,Sales Associate,Retail,Seattle,89753
+65,27,High School,Data Analyst,Education,Chicago,109328
+64,6,PhD,Marketing Specialist,Education,Houston,65829
+53,15,PhD,Sales Associate,Education,Houston,77878
+53,29,Master's,Project Manager,Finance,Houston,125827
+49,8,PhD,Software Engineer,Healthcare,Chicago,66191
+64,39,Master's,Data Analyst,Retail,San Francisco,147418
+43,22,High School,Project Manager,Tech,San Francisco,86482
+45,15,Bachelor's,Marketing Specialist,Retail,Houston,91029
+59,36,High School,Data Analyst,Retail,San Francisco,110752
+50,25,High School,Data Analyst,Healthcare,Seattle,107334
+61,34,Master's,Sales Associate,Finance,Chicago,109473
+39,6,Master's,Marketing Specialist,Healthcare,San Francisco,67887
+48,18,High School,Marketing Specialist,Tech,Houston,92432
+46,25,Bachelor's,Software Engineer,Tech,New York,91056
+64,26,Master's,Software Engineer,Retail,Houston,121193
+28,6,Bachelor's,Marketing Specialist,Tech,Houston,55833
+64,10,High School,Data Analyst,Finance,Seattle,51392
+62,34,High School,Project Manager,Education,Seattle,102365
+61,27,Master's,Software Engineer,Tech,Chicago,111973
+63,32,Bachelor's,Project Manager,Retail,Seattle,124520
+42,18,Bachelor's,Sales Associate,Retail,Seattle,81017
+54,24,PhD,Project Manager,Healthcare,Houston,107252
+64,15,High School,Marketing Specialist,Finance,Chicago,85229
+62,22,High School,Sales Associate,Retail,Chicago,81905
+51,8,Bachelor's,Marketing Specialist,Tech,New York,67492
+38,14,High School,Project Manager,Tech,Houston,83020
+22,2,PhD,Sales Associate,Education,Houston,74225
+40,13,High School,Software Engineer,Healthcare,Seattle,81594
+65,36,Bachelor's,Data Analyst,Healthcare,Seattle,126170
+63,1,Bachelor's,Sales Associate,Finance,San Francisco,46683
+62,39,Bachelor's,Data Analyst,Education,New York,139246
+49,26,PhD,Sales Associate,Education,Houston,114768
+65,37,PhD,Marketing Specialist,Finance,Seattle,127168
+65,38,PhD,Marketing Specialist,Retail,Houston,123787
+54,30,PhD,Software Engineer,Healthcare,Chicago,110742
+62,37,High School,Sales Associate,Healthcare,New York,118808
+63,13,Bachelor's,Data Analyst,Finance,San Francisco,73315
+49,21,Bachelor's,Sales Associate,Finance,Seattle,88856
+41,12,Bachelor's,Marketing Specialist,Tech,Houston,80158
+62,22,Bachelor's,Software Engineer,Education,Seattle,84395
+56,35,Master's,Data Analyst,Healthcare,Houston,127752
+43,7,High School,Sales Associate,Retail,Chicago,70145
+26,4,High School,Marketing Specialist,Retail,New York,56154
+35,2,Master's,Software Engineer,Tech,San Francisco,70337
+49,14,Bachelor's,Software Engineer,Tech,San Francisco,69500
+57,33,Bachelor's,Sales Associate,Education,New York,124559
+65,39,High School,Data Analyst,Tech,San Francisco,132112
+54,31,High School,Marketing Specialist,Healthcare,Seattle,108186
+62,35,PhD,Data Analyst,Healthcare,San Francisco,122566
+39,5,High School,Sales Associate,Retail,Chicago,43350
+40,18,Master's,Software Engineer,Tech,Chicago,104457
+54,1,High School,Project Manager,Healthcare,Houston,52583
+37,17,Bachelor's,Marketing Specialist,Tech,Seattle,90496
+54,20,Bachelor's,Software Engineer,Retail,New York,99047
+59,37,Master's,Data Analyst,Finance,Seattle,138210
+46,4,High School,Sales Associate,Healthcare,Seattle,59630
+58,25,PhD,Marketing Specialist,Tech,New York,106671
+43,13,High School,Sales Associate,Finance,Houston,62435
+53,26,Bachelor's,Project Manager,Healthcare,New York,100158
+62,3,Master's,Project Manager,Tech,New York,59980
+60,39,High School,Sales Associate,Tech,Seattle,126886
+33,6,Master's,Project Manager,Education,New York,76651
+60,5,Bachelor's,Marketing Specialist,Education,Houston,61075
+52,29,Master's,Software Engineer,Finance,Chicago,126540
+51,25,PhD,Project Manager,Healthcare,Seattle,111275
+62,36,High School,Project Manager,Retail,Chicago,115151
+56,34,High School,Project Manager,Healthcare,San Francisco,120367
+55,35,High School,Marketing Specialist,Tech,San Francisco,116297
+55,18,Master's,Project Manager,Education,New York,85481
+51,8,Bachelor's,Software Engineer,Education,Chicago,56352
+55,30,Master's,Marketing Specialist,Tech,Houston,108600
+33,11,Bachelor's,Data Analyst,Healthcare,New York,71880
+59,15,Bachelor's,Software Engineer,Finance,New York,73116
+62,22,PhD,Sales Associate,Education,San Francisco,111992
+51,0,Master's,Project Manager,Finance,Chicago,45244
+39,9,High School,Data Analyst,Tech,Chicago,77134
+59,9,Bachelor's,Sales Associate,Tech,Houston,76767
+57,28,Master's,Software Engineer,Healthcare,Houston,110394
+35,15,Bachelor's,Sales Associate,Retail,Seattle,74576
+56,15,Bachelor's,Software Engineer,Education,New York,73861
+59,21,Bachelor's,Project Manager,Finance,San Francisco,86700
+53,13,High School,Sales Associate,Finance,New York,84339
+65,17,PhD,Data Analyst,Education,Chicago,85503
+43,9,Bachelor's,Marketing Specialist,Finance,San Francisco,75872
+61,20,Bachelor's,Project Manager,Education,Houston,81735
+63,21,Bachelor's,Project Manager,Education,San Francisco,96322
+44,5,High School,Project Manager,Retail,Seattle,67826
+29,2,Master's,Marketing Specialist,Finance,Chicago,44858
+42,19,PhD,Project Manager,Healthcare,Houston,94319
+65,39,Bachelor's,Marketing Specialist,Tech,San Francisco,128274
+27,6,Master's,Software Engineer,Healthcare,San Francisco,53839
+65,38,Bachelor's,Project Manager,Education,New York,137651
+53,15,High School,Software Engineer,Finance,San Francisco,63907
+59,35,Bachelor's,Data Analyst,Education,Chicago,108278
+61,25,High School,Sales Associate,Healthcare,San Francisco,81855
+60,26,PhD,Data Analyst,Healthcare,New York,125640
+34,12,Bachelor's,Marketing Specialist,Tech,Houston,81165
+61,21,High School,Software Engineer,Healthcare,San Francisco,93218
+65,39,Master's,Software Engineer,Finance,New York,122524
+58,31,Bachelor's,Sales Associate,Retail,Chicago,102311
+58,35,Master's,Sales Associate,Retail,San Francisco,136048
+52,25,PhD,Sales Associate,Education,New York,98411
+58,32,Master's,Sales Associate,Retail,Chicago,106286
+54,33,PhD,Software Engineer,Healthcare,Seattle,125651
+59,37,Bachelor's,Software Engineer,Healthcare,Chicago,129883
+22,2,PhD,Data Analyst,Retail,Chicago,50418
+50,8,Master's,Software Engineer,Finance,Chicago,65259
+64,22,Bachelor's,Sales Associate,Healthcare,Houston,79180
+28,0,High School,Software Engineer,Tech,Houston,51362
+63,23,Master's,Software Engineer,Tech,Seattle,111543
+44,7,High School,Sales Associate,Finance,New York,71360
+50,21,Master's,Sales Associate,Finance,New York,108871
+52,19,High School,Software Engineer,Finance,New York,87192
+26,4,Master's,Data Analyst,Retail,San Francisco,50288
+63,35,Master's,Software Engineer,Retail,Chicago,110789
+48,9,Bachelor's,Data Analyst,Finance,New York,74743
+55,29,High School,Software Engineer,Finance,Seattle,96563
+58,20,PhD,Data Analyst,Tech,Seattle,109462
+58,23,Master's,Software Engineer,Education,Houston,94730
+64,27,Master's,Project Manager,Tech,New York,114569
+65,29,PhD,Sales Associate,Education,New York,125518
+65,9,Master's,Data Analyst,Education,Seattle,62168
+58,30,Master's,Sales Associate,Retail,San Francisco,106726
+48,2,Bachelor's,Marketing Specialist,Finance,New York,52264
+28,7,Bachelor's,Project Manager,Retail,Seattle,60640
+64,40,High School,Data Analyst,Retail,Seattle,112351
+63,8,High School,Marketing Specialist,Finance,Seattle,63767
+61,17,Master's,Sales Associate,Tech,Seattle,78425
+42,15,Master's,Software Engineer,Retail,New York,86378
+48,2,High School,Sales Associate,Education,New York,43360
+64,4,Bachelor's,Marketing Specialist,Retail,Seattle,62142
+53,11,PhD,Project Manager,Education,Houston,70654
+49,17,Master's,Sales Associate,Education,Seattle,79493
+62,17,Bachelor's,Data Analyst,Finance,Chicago,92006
+59,37,High School,Data Analyst,Tech,Houston,108766
+62,38,Bachelor's,Software Engineer,Tech,New York,134519
+63,22,High School,Data Analyst,Healthcare,Chicago,75163
+54,6,Bachelor's,Sales Associate,Education,Seattle,57331
+52,12,PhD,Data Analyst,Retail,Seattle,79967
+65,38,Master's,Data Analyst,Healthcare,Chicago,144557
+49,9,Bachelor's,Sales Associate,Healthcare,San Francisco,61999
+60,21,PhD,Marketing Specialist,Tech,New York,87712
+60,37,Master's,Project Manager,Healthcare,Chicago,124451
+54,2,PhD,Data Analyst,Finance,San Francisco,51030
+58,37,High School,Data Analyst,Finance,Seattle,109469
+54,25,Bachelor's,Project Manager,Retail,Seattle,88776
+38,7,Bachelor's,Software Engineer,Finance,New York,50699
+64,22,Bachelor's,Marketing Specialist,Retail,Seattle,95617
+61,35,Master's,Marketing Specialist,Education,Seattle,136820
+63,40,Master's,Sales Associate,Healthcare,New York,123012
+57,19,High School,Data Analyst,Healthcare,Chicago,95556
+54,27,Master's,Marketing Specialist,Healthcare,San Francisco,97267
+62,27,PhD,Data Analyst,Education,Houston,126243
+61,40,High School,Sales Associate,Tech,Seattle,115299
+56,2,High School,Project Manager,Tech,Seattle,41398
+53,17,High School,Project Manager,Healthcare,New York,72263
+62,35,Bachelor's,Project Manager,Finance,Houston,113373
+49,18,Master's,Data Analyst,Tech,Chicago,98720
+20,0,Master's,Software Engineer,Retail,New York,57526
+57,33,PhD,Sales Associate,Healthcare,San Francisco,113952
+61,24,Bachelor's,Project Manager,Tech,New York,86853
+61,40,Bachelor's,Sales Associate,Healthcare,New York,134375
+62,38,Master's,Data Analyst,Tech,Houston,133465
+53,31,Master's,Sales Associate,Education,Seattle,123459
+53,27,Master's,Sales Associate,Finance,New York,114637
+49,23,PhD,Marketing Specialist,Tech,Seattle,92811
+61,26,Bachelor's,Software Engineer,Education,Seattle,92640
+62,29,Bachelor's,Software Engineer,Healthcare,New York,111021
+53,4,PhD,Marketing Specialist,Healthcare,Seattle,71400
+60,37,Master's,Data Analyst,Retail,San Francisco,121947
+64,5,PhD,Sales Associate,Finance,New York,55459
+49,1,High School,Project Manager,Finance,Houston,56669
+50,27,High School,Data Analyst,Healthcare,Seattle,90885
+59,31,Master's,Sales Associate,Education,Houston,124983
+32,1,Bachelor's,Marketing Specialist,Retail,New York,58040
+44,20,Bachelor's,Project Manager,Retail,Chicago,78603
+31,5,Bachelor's,Project Manager,Retail,San Francisco,65259
+45,15,PhD,Marketing Specialist,Education,Chicago,104205
+59,30,Bachelor's,Project Manager,Finance,New York,123962
+29,9,PhD,Software Engineer,Finance,New York,83202
+60,9,High School,Project Manager,Education,Seattle,58347
+54,25,High School,Sales Associate,Retail,Houston,109713
+29,7,High School,Sales Associate,Education,New York,64445
+49,17,Master's,Data Analyst,Retail,San Francisco,92636
+49,18,Bachelor's,Data Analyst,Education,Seattle,93124
+42,15,Master's,Sales Associate,Healthcare,Chicago,98060
+39,12,Master's,Sales Associate,Retail,Houston,68379
+42,3,Bachelor's,Project Manager,Healthcare,New York,57384
+57,0,PhD,Project Manager,Education,Houston,63615
+52,29,Master's,Data Analyst,Tech,Seattle,104326
+51,7,High School,Sales Associate,Retail,Houston,49877
+65,39,PhD,Marketing Specialist,Healthcare,Seattle,125732
+32,9,Bachelor's,Marketing Specialist,Education,Chicago,78790
+30,10,Master's,Software Engineer,Education,Houston,86799
+35,9,Master's,Software Engineer,Healthcare,Houston,59268
+44,22,PhD,Marketing Specialist,Tech,Seattle,97276
+42,11,Master's,Project Manager,Healthcare,New York,81625
+44,24,PhD,Marketing Specialist,Tech,Houston,101970
+46,5,Master's,Marketing Specialist,Retail,Chicago,77314
+61,39,Bachelor's,Software Engineer,Education,Seattle,138405
+62,3,PhD,Marketing Specialist,Education,Houston,72877
+48,12,PhD,Data Analyst,Retail,Chicago,91351
+62,37,High School,Software Engineer,Education,Chicago,110707
+60,21,High School,Data Analyst,Tech,New York,89734
+59,26,PhD,Sales Associate,Healthcare,Seattle,105908
+48,18,PhD,Marketing Specialist,Finance,San Francisco,100397
+47,9,High School,Marketing Specialist,Finance,New York,77093
+50,16,PhD,Marketing Specialist,Finance,San Francisco,99494
+61,4,High School,Marketing Specialist,Retail,Seattle,52441
+47,26,Master's,Marketing Specialist,Tech,Chicago,118932
+43,10,Bachelor's,Software Engineer,Education,San Francisco,84545
+62,32,Master's,Sales Associate,Education,New York,116102
+39,15,PhD,Software Engineer,Tech,Seattle,76975
+49,13,Bachelor's,Software Engineer,Tech,Seattle,62762
+34,14,High School,Sales Associate,Education,Chicago,69454
+58,12,PhD,Project Manager,Retail,Houston,82806
+49,7,PhD,Software Engineer,Finance,San Francisco,71809
+37,16,PhD,Software Engineer,Healthcare,San Francisco,102978
+60,24,Master's,Project Manager,Retail,San Francisco,92328
+64,11,Bachelor's,Sales Associate,Healthcare,Seattle,71552
+64,38,High School,Project Manager,Finance,Houston,123023
+62,22,High School,Marketing Specialist,Education,Houston,81591
+57,27,PhD,Sales Associate,Finance,San Francisco,110829
