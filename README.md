@@ -13,7 +13,6 @@ In this project, we generate a synthetic dataset to simulate real-world salary t
 ├── Synthetic_salary.ipynb   # Jupyter notebook for data generation and model training
 ├── dataset/                 # Folder containing generated datasets (if applicable)
 ├── README.md                # Project documentation (this file)
-└── requirements.txt         # List of dependencies (if required)
 ```
 ## 🚀 Getting Started
 #### Prerequisites
